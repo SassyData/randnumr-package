@@ -1,0 +1,16 @@
+Package: randnumr
+Title: Returns Random Numbers From A Chosen Distribution
+Version: 1.0.0
+Authors@R: 
+    person(given = "Tabitha ",
+           family = "Johnston",
+           role = c("aut", "cre"),
+           email = "tabssj@gmail.com")
+Description: This function allows you to create random numbers given a chosen 
+    distribution (of normal, binomial or poisson) and other parameters specific 
+    to the distribution chosen.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Imports: stats
+RoxygenNote: 6.1.1
